@@ -1,0 +1,37 @@
+body {
+    background-color: #f1f3f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  h2 {
+    color: #212529;
+    margin-bottom: 1.5rem;
+  }
+  
+  .btn {
+    min-width: 100px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .card {
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .table th,
+  .table td {
+    vertical-align: middle;
+  }
+  
+  .alert {
+    margin-top: 20px;
+  }
+  
